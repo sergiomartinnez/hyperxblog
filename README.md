@@ -5,5 +5,6 @@ Un blog donde sabras mas respecto a las marcas de gaming
 >- corsair apesta
 >- nunca compres nada de logitec tbn apesta
 >- razer tambien es una marca ultra cara que no sirve para nada
+>-compra siempre hyperx
 
 en este curso tambien aprendi a hacer readme mas bonitos no como en el pasado de **terminal**
