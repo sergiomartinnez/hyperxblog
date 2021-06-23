@@ -1,5 +1,5 @@
 #hyperXblog
-Un blog donde sabras mas respecto a las marcas de gaming
+<p>Un blog donde sabras mas respecto a las marcas de gaming</p>
 >el curso de git y github de platzi nos enseña lo suficiente para poder desarrollar nuevas tecnicas de programacion en el ambito laboral y profesional
 >- corsair apesta
 
